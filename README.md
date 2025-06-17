@@ -5,7 +5,7 @@
 
 **Catch the Ball** is a simple arcade-style game developed using **Python Turtle Graphics**, where the player controls a paddle to catch a continuously bouncing ball. The goal is to prevent the ball from touching the red-bordered ground while increasing your score with each successful catch.
 
-This project was developed as part of the **Computer Science (083)** curriculum for **Class XI** .
+This project was developed as part of the **Computer Science** curriculum for **Class XI** .
 
 ---
 
